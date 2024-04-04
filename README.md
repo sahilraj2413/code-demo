@@ -1,4 +1,4 @@
 # code-demo
-This is my first Git Repository.
+This is Git Repository.
 <br>
 Author - Sahil Raj
